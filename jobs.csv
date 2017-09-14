@@ -1,0 +1,170 @@
+,Company,Location,Salary,Titles,New Salary,SalaryII,SalaryIII,Avg Salary
+11,Corvid,"Charlotte, NC 28202 (Downtown Charlotte area)","[$35,000 - $45,000 a year]",Business Operations Associate,"[u'35,000  45,000 ']",35000.0,45000.0,40000.0
+19,Nityo Infotech Services Pvt. Ltd.,"Charlotte, NC","[$110,000 - $130,000 a year]","Machine Learning Developer - Charlotte, NC // FULL TIME","[u'110,000  130,000 ']",110000.0,130000.0,120000.0
+26,Prospect Infosys Inc.,"Charlotte, NC","[$100,000 - $180,000 a year]",Sr Quantitative Finance Analyst,"[u'100,000  180,000 ']",100000.0,180000.0,140000.0
+33,Principle Solutions Group,"Charlotte, NC 28202 (Downtown Charlotte area)","[$140,000 - $160,000 a year]",Data Scientist,"[u'140,000  160,000 ']",140000.0,160000.0,150000.0
+41,Oliver James Associates,"Charlotte, NC","[$110,000 - $120,000 a year]",Senior Data Scientist,"[u'110,000  120,000 ']",110000.0,120000.0,115000.0
+49,Department of Agriculture,"Gastonia, NC","[$33,012 - $42,921 a year]",Physical Science Technician,"[u'33,012  42,921 ']",33012.0,42921.0,37966.5
+65,"Kennedy Unlimited Inc, Professional Staffing","Charlotte, NC","[$130,000 - $140,000 a year]",Predictive Analytics (Machine Learning),"[u'130,000  140,000 ']",130000.0,140000.0,135000.0
+69,"Kennedy Unlimited Inc, Professional Staffing","Charlotte, NC","[$120,000 - $150,000 a year]",Analytics Manager (Machine Learning),"[u'120,000  150,000 ']",120000.0,150000.0,135000.0
+79,"Kennedy Unlimited Inc, Professional Staffing","Charlotte, NC","[$140,000 - $165,000 a year]",Data Scientist Data Modeling (Machine Learning Python),"[u'140,000  165,000 ']",140000.0,165000.0,152500.0
+81,"Kennedy Unlimited Inc, Professional Staffing","Charlotte, NC","[$140,000 - $155,000 a year]",Quantitative Analyst (Quantitative Research PhD),"[u'140,000  155,000 ']",140000.0,155000.0,147500.0
+97,Lighthouse Recruiting,"Charlotte, NC","[$60,000 - $75,000 a year]",Certifying Scientist,"[u'60,000  75,000 ']",60000.0,75000.0,67500.0
+764,InfoArmor,"Scottsdale, AZ","[$80,000 - $100,000 a year]","Analyst Research Engineer, Cyber Threat Intelligence","[u'80,000  100,000 ']",80000.0,100000.0,90000.0
+780,Maricopa County Community College District,"Phoenix, AZ","[$50,958 - $60,512 a year]",Institutional Research Analyst (Open until Filled),"[u'50,958  60,512 ']",50958.0,60512.0,55735.0
+784,State of Arizona,"Phoenix, AZ","[$56,573 - $75,000 a year]",ASSOC SCIENTIST,"[u'56,573  75,000 ']",56573.0,75000.0,65786.5
+791,Arizona Health Care Cost Containment System,"Phoenix, AZ","[$39,983 - $55,500 a year]",RESEARCH AND STATISTICAL ANALYST,"[u'39,983  55,500 ']",39983.0,55500.0,47741.5
+808,SiteLock,"Scottsdale, AZ","[$50,000 - $55,000 a year]",Web Security Research Analyst,"[u'50,000  55,000 ']",50000.0,55000.0,52500.0
+809,"Kennedy Unlimited Inc, Professional Staffing","Phoenix, AZ","[$130,000 - $140,000 a year]",Predictive Analytics (Machine Learning),"[u'130,000  140,000 ']",130000.0,140000.0,135000.0
+870,VincentBenjamin,"Scottsdale, AZ","[$80,000 - $110,000 a year]",Embedded Software Engineer,"[u'80,000  110,000 ']",80000.0,110000.0,95000.0
+872,Lighthouse Recruiting,"Scottsdale, AZ 85268","[$70,000 - $90,000 a year]","LCMS Technologist / Certifying Scientist, Toxicology","[u'70,000  90,000 ']",70000.0,90000.0,80000.0
+1551,YMCA,"Chicago, IL","[$48,000 - $52,000 a year]",Junior Research Analyst,"[u'48,000  52,000 ']",48000.0,52000.0,50000.0
+1584,Workbridge Associates,"Chicago, IL","[$65,000 - $80,000 a year]","Data Scientist (Python, R, SQL)","[u'65,000  80,000 ']",65000.0,80000.0,72500.0
+1628,Jobspring Partners,"Chicago, IL","[$90,000 - $130,000 a year]",Data Scientist,"[u'90,000  130,000 ']",90000.0,130000.0,110000.0
+1630,Huxley Banking & Financial Services,"Chicago, IL","[$80,000 - $100,000 a year]",Data Scientist,"[u'80,000  100,000 ']",80000.0,100000.0,90000.0
+1637,Michael Page US,"Chicago, IL","[$65,000 - $90,000 a year]",Data Scientist (NPO Startup),"[u'65,000  90,000 ']",65000.0,90000.0,77500.0
+1686,Smith Hanley Associates,"Chicago, IL","[$100,000 - $130,000 a year]",Data Scientist,"[u'100,000  130,000 ']",100000.0,130000.0,115000.0
+1727,Workbridge Associates,"Chicago, IL","[$75,000 - $135,000 a year]","Data Scientist (Python, R, AWS, Tableau)","[u'75,000  135,000 ']",75000.0,135000.0,105000.0
+1825,Request Technology,"Chicago, IL","[$100,000 - $130,000 a year]",Data Integration Engineer,"[u'100,000  130,000 ']",100000.0,130000.0,115000.0
+1865,YMCA,"Chicago, IL","[$40,000 - $43,000 a year]","Assistant, Research Analyst Team","[u'40,000  43,000 ']",40000.0,43000.0,41500.0
+1886,"Vivid Technologies, Inc.","Chicago, IL 60606 (Loop area)","[$120,000 - $160,000 a year]",Hadoop Data Scientist/Administrator,"[u'120,000  160,000 ']",120000.0,160000.0,140000.0
+1898,Workbridge Associates,"Chicago, IL","[$100,000 - $150,000 a year]",Senior Data Scientist,"[u'100,000  150,000 ']",100000.0,150000.0,125000.0
+1899,Workbridge Associates,"Chicago, IL","[$80,000 - $135,000 a year]","Data Scientist (Python, R, AWS, Azure, Spark)","[u'80,000  135,000 ']",80000.0,135000.0,107500.0
+1900,Jobspring Partners,"Chicago, IL","[$55,000 - $65,000 a year]",Cloud/Data Engineer (Downtown),"[u'55,000  65,000 ']",55000.0,65000.0,60000.0
+1911,Workbridge Associates,"Chicago, IL","[$80,000 - $112,000 a year]","Data Scientist (R, SAS, Python)","[u'80,000  112,000 ']",80000.0,112000.0,96000.0
+1968,Workbridge Associates,"Chicago, IL","[$100,000 - $150,000 a year]","Senior Data Scientist (Python, Spark, AWS)","[u'100,000  150,000 ']",100000.0,150000.0,125000.0
+2057,All-In Analytics,"Chicago, IL","[$100,000 - $140,000 a year]",Lead Machine Learning Data Scientist,"[u'100,000  140,000 ']",100000.0,140000.0,120000.0
+2102,All-In Analytics,"Downers Grove, IL","[$70,000 - $80,000 a year]",Sr. Machine Learning Developer,"[u'70,000  80,000 ']",70000.0,80000.0,75000.0
+2112,Jobspring Partners,"Northbrook, IL","[$85,000 - $95,000 a year]",Junior Polyglot Engineer,"[u'85,000  95,000 ']",85000.0,95000.0,90000.0
+2129,Lighthouse Recruiting,"Chicago, IL","[$62,000 - $80,000 a year]",Certifying Scientist,"[u'62,000  80,000 ']",62000.0,80000.0,71000.0
+2130,All-In Analytics,"Chicago, IL","[$100,000 - $125,000 a year]",Sr. Digital Marketing Analytics Modeler,"[u'100,000  125,000 ']",100000.0,125000.0,112500.0
+2159,"CPS, Inc.","Chicago, IL","[$90,000 - $115,000 a year]",PhD Analytical Chemist,"[u'90,000  115,000 ']",90000.0,115000.0,102500.0
+2295,The University of Pittsburgh,"Pittsburgh, PA","[$46,644 - $76,440 a year]",Data Scientist,"[u'46,644  76,440 ']",46644.0,76440.0,61542.0
+2318,The University of Pittsburgh,"Pittsburgh, PA","[$46,644 - $76,440 a year]",Research Scientist,"[u'46,644  76,440 ']",46644.0,76440.0,61542.0
+2344,All-In Analytics,"Pittsburgh, PA","[$53,000 - $98,000 a year]",Senior Statistician,"[u'53,000  98,000 ']",53000.0,98000.0,75500.0
+2375,The University of Pittsburgh,"Pittsburgh, PA","[$23,868 - $37,752 a year]",Laboratory Technician,"[u'23,868  37,752 ']",23868.0,37752.0,30810.0
+2403,Smith Hanley Associates,"Pittsburgh, PA","[$90,000 - $100,000 a year]",Data Scientist,"[u'90,000  100,000 ']",90000.0,100000.0,95000.0
+2416,The University of Pittsburgh,"Pittsburgh, PA","[$18,564 - $28,860 a year]",CNUP Assistant,"[u'18,564  28,860 ']",18564.0,28860.0,23712.0
+3055,TechXMath,"Cambridge, MA","[$60,000 - $85,000 a year]",Data Scientist,"[u'60,000  85,000 ']",60000.0,85000.0,72500.0
+3126,Eutropics Inc.,"Cambridge, MA 02138 (West Cambridge area)","[$75,000 - $100,000 a year]","Scientist, In Vitro Diagnostic Assay Development","[u'75,000  100,000 ']",75000.0,100000.0,87500.0
+3160,ShortestTrack,"Boston, MA","[$50,000 - $60,000 a year]",Data Science Solution Manager,"[u'50,000  60,000 ']",50000.0,60000.0,55000.0
+3175,"Veterans Affairs, Veterans Health Administration","Boston, MA","[$94,520 - $122,875 a year]",Statistician (Health),"[u'94,520  122,875 ']",94520.0,122875.0,108697.5
+3181,Commonwealth of Massachusetts,"Framingham, MA 01702","[$55,017 - $78,763 a year]",Research Analyst III,"[u'55,017  78,763 ']",55017.0,78763.0,66890.0
+3304,Shire Pharmaceuticals,"Lexington, MA","[$128,000 - $141,000 a year]",Senior Statistical Programmer II,"[u'128,000  141,000 ']",128000.0,141000.0,134500.0
+3307,Boston Planning & Development Agency,"Boston, MA","[$56,000 - $70,000 a year]",SENIOR RESEARCH ANALYST,"[u'56,000  70,000 ']",56000.0,70000.0,63000.0
+3336,Darwin Recruitment,"Boston, MA","[$150,000 - $180,000 a year]",Data Scientist Machine Learning Engineer,"[u'150,000  180,000 ']",150000.0,180000.0,165000.0
+3425,Darwin Recruitment,"Boston, MA","[$180,000 - $200,000 a year]",Senior Data Scientist,"[u'180,000  200,000 ']",180000.0,200000.0,190000.0
+3494,The Guild for Human Services,"Concord, MA 01742","[$85,000 - $90,000 a year]",Senior Research Data Analyst,"[u'85,000  90,000 ']",85000.0,90000.0,87500.0
+3514,Strategic Employment Partners,"Boston, MA","[$100,000 - $140,000 a year]",Data Scientist,"[u'100,000  140,000 ']",100000.0,140000.0,120000.0
+3617,Darwin Recruitment,"Boston, MA","[$150,000 - $180,000 a year]",Natural Language Processing/Machine Learning Engineer,"[u'150,000  180,000 ']",150000.0,180000.0,165000.0
+3687,Shire Pharmaceuticals,"Cambridge, MA 02140 (North Cambridge area)","[$127,400 - $191,100 a year]","Associate Director, Clinical Scientist","[u'127,400  191,100 ']",127400.0,191100.0,159250.0
+3735,Jobspring Partners,"Boston, MA 02116 (South End area)","[$80,000 - $110,000 a year]",Data Analyst,"[u'80,000  110,000 ']",80000.0,110000.0,95000.0
+3738,All-In Analytics,"Wellesley, MA","[$110,000 - $120,000 a year]",Sr. Data Scientist,"[u'110,000  120,000 ']",110000.0,120000.0,115000.0
+3811,Darwin Recruitment,"Boston, MA","[$200,000 - $220,000 a year]",Director of Machine Learning,"[u'200,000  220,000 ']",200000.0,220000.0,210000.0
+3819,Center for Social Innovation,"Needham, MA","[$50,000 - $70,000 a year]",Project Manager,"[u'50,000  70,000 ']",50000.0,70000.0,60000.0
+3827,Commonwealth of Massachusetts,"Boston, MA","[$60,096 - $87,045 a year]",Clinical Laboratory Surveyor,"[u'60,096  87,045 ']",60096.0,87045.0,73570.5
+3842,CEI,"Washington, DC","[$80,000 - $100,000 a year]",Data Science Analyst,"[u'80,000  100,000 ']",80000.0,100000.0,90000.0
+3844,PPG Marine,"Washington, DC","[$85,000 - $100,000 a year]",Data Research Analyst / Statistician - U.S. Coast Guard,"[u'85,000  100,000 ']",85000.0,100000.0,92500.0
+3854,Central Intelligence Agency,"Washington, DC","[$62,338 - $119,794 a year]",Data Scientist,"[u'62,338  119,794 ']",62338.0,119794.0,91066.0
+3884,Motion Partners,"Arlington, VA","[$120,000 - $160,000 a year]",Lead/Senior Data Scientist,"[u'120,000  160,000 ']",120000.0,160000.0,140000.0
+3886,CNA Corporation,"Arlington, VA 22201 (Lyon Village area)","[$85,000 - $120,000 a year]",System Engineer III (Data Analysis Specialist),"[u'85,000  120,000 ']",85000.0,120000.0,102500.0
+3887,Department of State,"Washington, DC","[$94,796 - $145,629 a year]",Survey Statistician (Social Science),"[u'94,796  145,629 ']",94796.0,145629.0,120212.5
+3894,Piper Companies,"Reston, VA 20190","[$200,000 - $220,000 a year]",Data Scientist,"[u'200,000  220,000 ']",200000.0,220000.0,210000.0
+3909,Venturi Ltd,"Washington, DC 20007 (Georgetown area)","[$90,000 - $125,000 a year]",Data Scientist ( Chinese Speaking / Deep Learning / NLP / AI...,"[u'90,000  125,000 ']",90000.0,125000.0,107500.0
+3916,"Cellphire, Inc.","Rockville, MD 20850","[$80,000 - $95,000 a year]",Biostatistician/Analytical Research Scientist,"[u'80,000  95,000 ']",80000.0,95000.0,87500.0
+3921,Motion Partners,"Reston, VA","[$140,000 - $180,000 a year]",Data Scientist,"[u'140,000  180,000 ']",140000.0,180000.0,160000.0
+3970,Motion Partners,"Arlington, VA","[$135,000 - $180,000 a year]",Data Scientist (Deep Learning),"[u'135,000  180,000 ']",135000.0,180000.0,157500.0
+3984,Department of Defense,"Springfield, VA","[$131,767 - $161,900 a year]",R&D Scientist,"[u'131,767  161,900 ']",131767.0,161900.0,146833.5
+4001,Department of Agriculture,"Washington, DC","[$119,285 - $155,073 a year]",MATHEMATICAL STATISTICIAN,"[u'119,285  155,073 ']",119285.0,155073.0,137179.0
+4010,Department of Commerce,"Washington, DC 20230 (Downtown area)","[$94,796 - $123,234 a year]","Mathematical Statistician, GS-1529-13, Census-DE-TLG","[u'94,796  123,234 ']",94796.0,123234.0,109015.0
+4026,Department of Health And Human Services,"Silver Spring, MD","[$112,021 - $145,629 a year]",Digital Health Advisor,"[u'112,021  145,629 ']",112021.0,145629.0,128825.0
+4027,National Security Agency,"Fort Meade, MD","[$68,586 - $85,464 a year]",Data Scientist - Entry/Mid-Level,"[u'68,586  85,464 ']",68586.0,85464.0,77025.0
+4030,MRP,"Tysons, VA","[$145,000 - $180,000 a year]",Senior Machine Learning Data Scientist,"[u'145,000  180,000 ']",145000.0,180000.0,162500.0
+4031,U.S. Federal Government,"Arlington, VA","[$94,796 - $149,337 a year]",Associate Program Officer,"[u'94,796  149,337 ']",94796.0,149337.0,122066.5
+4048,Motion Partners,"Arlington, VA","[$130,000 - $210,000 a year]","Senior Data Scientist ( Deep Learning, Python, Spark)","[u'130,000  210,000 ']",130000.0,210000.0,170000.0
+4059,Motion Partners,"Arlington, VA","[$120,000 - $160,000 a year]","Machine Learning Engineer (Python, Java, Data Science)","[u'120,000  160,000 ']",120000.0,160000.0,140000.0
+4061,U.S. Federal Government,"Washington, DC","[$94,796 - $123,234 a year]",Interdisciplinary Environmental Engineer/ Physical Scientist,"[u'94,796  123,234 ']",94796.0,123234.0,109015.0
+4130,Department of the Interior,"Reston, VA","[$66,510 - $103,639 a year]",Physical Scientist; GS-1301-11/12 (DEU - EC),"[u'66,510  103,639 ']",66510.0,103639.0,85074.5
+4146,MRP,"Tysons, VA","[$130,000 - $150,000 a year]",Machine Learning Engineer,"[u'130,000  150,000 ']",130000.0,150000.0,140000.0
+4159,National Geospatial-Intelligence Agency,"Springfield, VA","[$52,329 - $129,553 a year]",Data Scientist,"[u'52,329  129,553 ']",52329.0,129553.0,90941.0
+4203,PeaceTech Lab,"Washington, DC 20037 (Foggy Bottom area)","[$85,000 - $100,000 a year]",Director of Engineering,"[u'85,000  100,000 ']",85000.0,100000.0,92500.0
+4209,Piper Companies,"Reston, VA 20190","[$200,000 - $220,000 a year]",Senior Data Scientist,"[u'200,000  220,000 ']",200000.0,220000.0,210000.0
+4217,National Geospatial-Intelligence Agency,"Springfield, VA","[$60,613 - $123,234 a year]",Data Engineer,"[u'60,613  123,234 ']",60613.0,123234.0,91923.5
+4222,National Geospatial-Intelligence Agency,"Springfield, VA","[$131,767 - $161,900 a year]",R & D Scientist,"[u'131,767  161,900 ']",131767.0,161900.0,146833.5
+4247,Selby Jennings,"Washington, DC","[$140,000 - $175,000 a year]",VP Sr. Quantitative Analyst/Economist - Securitized Products,"[u'140,000  175,000 ']",140000.0,175000.0,157500.0
+4306,Workbridge Associates,"Arlington, VA","[$100,000 - $150,000 a year]",Research Data Scientist,"[u'100,000  150,000 ']",100000.0,150000.0,125000.0
+4356,MRP,"Washington, DC","[$150,000 - $170,000 a year]",Lead Data Scientist,"[u'150,000  170,000 ']",150000.0,170000.0,160000.0
+4372,MRP,"Reston, VA","[$120,000 - $140,000 a year]",Machine Learning Developers,"[u'120,000  140,000 ']",120000.0,140000.0,130000.0
+4458,National Aeronautics and Space Administration,"Greenbelt, MD","[$44,941 - $58,428 a year]",Engineering Technician,"[u'44,941  58,428 ']",44941.0,58428.0,51684.5
+4459,EPM Scientific,"Gaithersburg, MD","[$50,000 - $70,000 a year]",Associate Scientist,"[u'50,000  70,000 ']",50000.0,70000.0,60000.0
+4488,Department of Commerce,"Washington, DC 20230 (Downtown area)","[$94,796 - $123,234 a year]","Survey Statistician, GG-1530-13, Census-DEU-JNT","[u'94,796  123,234 ']",94796.0,123234.0,109015.0
+4505,Department of Agriculture,"Beltsville, MD","[$66,510 - $86,460 a year]",Research Physical Scientist/Research Hydrologist (Research A...,"[u'66,510  86,460 ']",66510.0,86460.0,76485.0
+4507,Department of the Navy,"Fort Meade, MD","[$47,735 - $73,098 a year]",COMPUTER SCIENTIST,"[u'47,735  73,098 ']",47735.0,73098.0,60416.5
+4538,"ADNET Systems, Inc.","Greenbelt, MD","[$75,000 - $85,000 a year]",Web Developer,"[u'75,000  85,000 ']",75000.0,85000.0,80000.0
+4580,Department of Commerce,"Washington, DC 20230 (Downtown area)","[$112,021 - $145,629 a year]","Survey Statistician, GG-1530-14, Census-DOC-PB","[u'112,021  145,629 ']",112021.0,145629.0,128825.0
+4581,Department of Commerce,"Washington, DC 20230 (Downtown area)","[$112,021 - $145,629 a year]","Survey Statistician, GG-1530-14, Census-DE-PB","[u'112,021  145,629 ']",112021.0,145629.0,128825.0
+4870,Lighthouse Recruiting,"Dallas, TX","[$65,000 - $80,000 a year]","Certifying Scientist, Part Time","[u'65,000  80,000 ']",65000.0,80000.0,72500.0
+5429,CREDIT UNION OF COLORADO,"Denver, CO","[$124,600 - $155,800 a year]",Business Intelligence Director,"[u'124,600  155,800 ']",124600.0,155800.0,140200.0
+5431,xentity corporation,"Denver, CO","[$95,000 - $127,000 a year]",Government Enterprise Architect,"[u'95,000  127,000 ']",95000.0,127000.0,111000.0
+5451,Denver Public Schools,"Denver, CO","[$63,339 - $76,007 a year]","SENIOR RESEARCH ANALYST, PROFESSIONAL LEARNING","[u'63,339  76,007 ']",63339.0,76007.0,69673.0
+5463,Department of the Air Force,"Buckley AFB, CO","[$72,168 - $155,073 a year]",Operations Research Analyst,"[u'72,168  155,073 ']",72168.0,155073.0,113620.5
+5609,"Baby Genes, Inc.","Golden, CO","[$38,000 - $48,000 a year]",Clinical Laboratory Scientist,"[u'38,000  48,000 ']",38000.0,48000.0,43000.0
+6155,Fuel Cycle,"Los Angeles, CA","[$120,000 - $160,000 a year]",Data Scientist,"[u'120,000  160,000 ']",120000.0,160000.0,140000.0
+6156,Long Beach City College,"Long Beach, CA","[$88,134 - $120,083 a year]",Data Scientist,"[u'88,134  120,083 ']",88134.0,120083.0,104108.5
+6189,Glocomms,"Los Angeles, CA","[$150,000 - $170,000 a year]",Data Scientist,"[u'150,000  170,000 ']",150000.0,170000.0,160000.0
+6233,AcuraStem,"Los Angeles, CA 90095","[$65,000 - $115,000 a year]","Principal Research Scientist, ALS Drug Discovery","[u'65,000  115,000 ']",65000.0,115000.0,90000.0
+6291,Los Angeles County Department of Human Resources,"Los Angeles, CA","[$76,804 - $100,726 a year]","MEDICAL TECHNOLOGIST, LABORATORY INFORMATION SYSTEMS","[u'76,804  100,726 ']",76804.0,100726.0,88765.0
+6324,USC,"Los Angeles, CA","[$82,000 - $105,000 a year]",Bioinformatics Programmer,"[u'82,000  105,000 ']",82000.0,105000.0,93500.0
+6327,AcuraStem,"Los Angeles, CA 90095","[$45,000 - $70,000 a year]","Associate Scientist II/III, ALS Drug Discovery","[u'45,000  70,000 ']",45000.0,70000.0,57500.0
+6333,Department of Commerce,"Van Nuys, CA","[$96,698 - $125,706 a year]","Supervisory Survey Statistician, GG-1530-13, CENSUS-DOC-JMW","[u'96,698  125,706 ']",96698.0,125706.0,111202.0
+6356,Los Angeles County Department of Human Resources,"Los Angeles, CA","[$57,274 - $71,152 a year]","RESEARCH ANALYST II, BEHAVIORAL SCIENCES","[u'57,274  71,152 ']",57274.0,71152.0,64213.0
+6455,All-In Analytics,"Los Angeles, CA","[$125,000 - $150,000 a year]",Senior Data Scientist,"[u'125,000  150,000 ']",125000.0,150000.0,137500.0
+6500,Council for Watershed Health,"Los Angeles, CA","[$55,000 - $60,000 a year]",Project Manager-Green Infrastructure,"[u'55,000  60,000 ']",55000.0,60000.0,57500.0
+6611,BOEING,"El Segundo, CA 90245","[$89,000 - $113,000 a year]",Survivability Systems Engineer,"[u'89,000  113,000 ']",89000.0,113000.0,101000.0
+6829,Los Angeles County Department of Human Resources,"Los Angeles, CA","[$79,884 - $104,772 a year]",SUPERVISING CLINICAL LABORATORY SCIENTIST II,"[u'79,884  104,772 ']",79884.0,104772.0,92328.0
+6948,Department of the Army,"Fort Sam Houston, TX","[$85,816 - $131,833 a year]",General Health Scientist (Epidemiologist),"[u'85,816  131,833 ']",85816.0,131833.0,108824.5
+6981,Department of the Air Force,"Lackland AFB, TX","[$85,816 - $131,833 a year]",Hydrologist,"[u'85,816  131,833 ']",85816.0,131833.0,108824.5
+7739,Nucleus Biologics,"San Diego, CA","[$60,000 - $75,000 a year]",Research Scientist,"[u'60,000  75,000 ']",60000.0,75000.0,67500.0
+7781,Agile Global Solutions,"San Diego, CA","[$80,000 - $90,000 a year]",SAS Programmer,"[u'80,000  90,000 ']",80000.0,90000.0,85000.0
+7855,UC San Diego,"San Diego, CA","[$43,305 - $47,188 a year]",Metabolomics Researcher,"[u'43,305  47,188 ']",43305.0,47188.0,45246.5
+7873,"Biocept, Inc.","San Diego, CA 92121","[$80,000 - $100,000 a year]",Laboratory Supervisor,"[u'80,000  100,000 ']",80000.0,100000.0,90000.0
+7891,Department of the Navy,"San Diego, CA","[$94,707 - $123,234 a year]",OPERATIONS RESEARCH ANALYST,"[u'94,707  123,234 ']",94707.0,123234.0,108970.5
+8053,JSP Recruitment Services,"San Diego, CA","[$80,000 - $90,000 a year]",SAS/A Programmer II,"[u'80,000  90,000 ']",80000.0,90000.0,85000.0
+8114,Adecco: USA,"San Diego, CA","[$85,000 - $90,000 a year]",Bioinformatics Research Scientist,"[u'85,000  90,000 ']",85000.0,90000.0,87500.0
+8488,MD Anderson Cancer Center,"Houston, TX","[$66,400 - $99,600 a year]",Research Statistical Analyst - Biostatistics,"[u'66,400  99,600 ']",66400.0,99600.0,83000.0
+8489,MD Anderson Cancer Center,"Houston, TX","[$66,400 - $99,600 a year]",Research Statistical Analyst,"[u'66,400  99,600 ']",66400.0,99600.0,83000.0
+8490,MD Anderson Cancer Center,"Houston, TX","[$66,400 - $99,600 a year]",Research Statistical Analyst -Bioinformatics & Computational...,"[u'66,400  99,600 ']",66400.0,99600.0,83000.0
+8580,MD Anderson Cancer Center,"Houston, TX","[$51,600 - $77,400 a year]","Research Scientist, Experimental Radiation Oncology","[u'51,600  77,400 ']",51600.0,77400.0,64500.0
+8588,MD Anderson Cancer Center,"Houston, TX","[$25,200 - $51,500 a year]",Institute Associate Scientist I – Medicinal Chemistry,"[u'25,200  51,500 ']",25200.0,51500.0,38350.0
+8674,MD Anderson Cancer Center,"Houston, TX","[$95,000 - $142,000 a year]",Institute Research Scientist - Translational Biology,"[u'95,000  142,000 ']",95000.0,142000.0,118500.0
+8687,MD Anderson Cancer Center,"Houston, TX","[$29,200 - $43,800 a year]",Research Assistant II - Gynecologic Oncology and Reproductiv...,"[u'29,200  43,800 ']",29200.0,43800.0,36500.0
+8689,MD Anderson Cancer Center,"Houston, TX","[$46,500 - $83,000 a year]",Institute Associate Scientist II - In Vivo Pharmacology,"[u'46,500  83,000 ']",46500.0,83000.0,64750.0
+8725,MD Anderson Cancer Center,"Houston, TX","[$125,000 - $187,000 a year]","Principal Institute Research Scientist - Drug Discovery, Bio...","[u'125,000  187,000 ']",125000.0,187000.0,156000.0
+9270,Washington University in St. Louis,"St. Louis, MO","[$46,113 - $58,802 a year]",Statistical Data Analyst - Biostatistics,"[u'46,113  58,802 ']",46113.0,58802.0,52457.5
+9271,Washington University in St. Louis,"St. Louis, MO","[$34,944 - $44,553 a year]",Reporting Services Analyst I - Ob/Gyn - Research & Operation...,"[u'34,944  44,553 ']",34944.0,44553.0,39748.5
+9272,Strategic Staffing Solutions,"St. Louis, MO","[$85,000 - $110,000 a year]",Data Scientist - R / Python,"[u'85,000  110,000 ']",85000.0,110000.0,97500.0
+9297,Department of Defense,"St. Louis, MO","[$60,613 - $123,234 a year]",Data Engineer,"[u'60,613  123,234 ']",60613.0,123234.0,91923.5
+9299,The McManness Group,"St. Louis, MO","[$110,000 - $150,000 a year]","Senior Manager, Data Analysis, Value Based Contracting","[u'110,000  150,000 ']",110000.0,150000.0,130000.0
+9325,Department of Defense,"St. Louis, MO","[$52,329 - $129,553 a year]",GEOINT Analyst (Data Science),"[u'52,329  129,553 ']",52329.0,129553.0,90941.0
+9356,Washington University in St. Louis,"St. Louis, MO","[$45,864 - $61,921 a year]",Staff Scientist - Radiology,"[u'45,864  61,921 ']",45864.0,61921.0,53892.5
+9368,Washington University in St. Louis,"St. Louis, MO","[$45,864 - $61,921 a year]",Staff Scientist - Neuroscience,"[u'45,864  61,921 ']",45864.0,61921.0,53892.5
+9383,Washington University in St. Louis,"St. Louis, MO","[$46,215 - $60,079 a year]",Human Research QA/QI Program Analyst - Vice Chancellor for R...,"[u'46,215  60,079 ']",46215.0,60079.0,53147.0
+9385,Washington University in St. Louis,"St. Louis, MO","[$45,864 - $61,921 a year]",Staff Scientist - Computational Genetics - Cardiology,"[u'45,864  61,921 ']",45864.0,61921.0,53892.5
+9453,Strategic Staffing Solutions,"St. Louis, MO","[$80,000 - $120,000 a year]",Data Scientist / Data Steward - Analytical Development,"[u'80,000  120,000 ']",80000.0,120000.0,100000.0
+9483,Washington University in St. Louis,"St. Louis, MO","[$45,864 - $61,921 a year]",Staff Scientist - Pediatrics Infectious Disease,"[u'45,864  61,921 ']",45864.0,61921.0,53892.5
+9529,"Veterans Affairs, Veterans Health Administration","St. Louis, MO","[$69,017 - $109,221 a year]",RN Research,"[u'69,017  109,221 ']",69017.0,109221.0,89119.0
+9565,"CPS, Inc.","Granite City, IL","[$56,000 - $105,000 a year]",Bakery Scientist,"[u'56,000  105,000 ']",56000.0,105000.0,80500.0
+10024,Kutir Corporation,"Seattle, WA","[$100,000 - $120,000 a year]",Data Scientist,"[u'100,000  120,000 ']",100000.0,120000.0,110000.0
+10041,CuraCloud Corporation,"Seattle, WA","[$60,000 - $70,000 a year]",Research Scientist,"[u'60,000  70,000 ']",60000.0,70000.0,65000.0
+10205,King County,"Seattle, WA","[$71,406 - $90,522 a year]",Water Quality Planner/Project Manager II - Marine Scientist,"[u'71,406  90,522 ']",71406.0,90522.0,80964.0
+10551,King County,"Seattle, WA","[$80,413 - $101,920 a year]",Project Program Manager III,"[u'80,413  101,920 ']",80413.0,101920.0,91166.5
+10593,LT,"Seattle, WA","[$150,000 - $180,000 a year]",Erlang Engineer,"[u'150,000  180,000 ']",150000.0,180000.0,165000.0
+10653,All-In Analytics,"Seattle, WA","[$150,000 - $275,000 a year]",Senior Data Scientist,"[u'150,000  275,000 ']",150000.0,275000.0,212500.0
+10803,"JP3 Measurement, LLC","Austin, TX","[$80,000 - $90,000 a year]",Data Scientist,"[u'80,000  90,000 ']",80000.0,90000.0,85000.0
+10810,HuntSource,"Austin, TX","[$128,000 - $162,000 a year]","Software Architect, Machine Learning & AI","[u'128,000  162,000 ']",128000.0,162000.0,145000.0
+10822,Senseye,"Austin, TX","[$50,000 - $60,000 a year]",Research Scientist I,"[u'50,000  60,000 ']",50000.0,60000.0,55000.0
+10837,National Domestic Violence Hotline,"Austin, TX","[$45,000 - $55,000 a year]",Prospect Research Analyst,"[u'45,000  55,000 ']",45000.0,55000.0,50000.0
+10881,"Applied Research Laboratories, The University of T...","Austin, TX 78758 (North Austin area)","[$75,000 - $130,000 a year]",Engineering Scientist - R and D Algorithm and System Develop...,"[u'75,000  130,000 ']",75000.0,130000.0,102500.0
+10917,Avancos,"Austin, TX","[$70,000 - $95,000 a year]",Senior Research Analyst,"[u'70,000  95,000 ']",70000.0,95000.0,82500.0
+10974,CareerMonks,"Austin, TX","[$100,000 - $130,000 a year]",Big Data Engineer,"[u'100,000  130,000 ']",100000.0,130000.0,115000.0
+11050,Winston Fox,"Austin, TX","[$120,000 - $200,000 a year]",Software Development Engineers (Core Java),"[u'120,000  200,000 ']",120000.0,200000.0,160000.0
